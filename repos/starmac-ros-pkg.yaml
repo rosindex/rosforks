@@ -1,0 +1,6 @@
+instances:
+  - uri: 'https://jbohren@bitbucket.org/bouffard/starmac-ros-pkg'
+    type: hg
+    purpose: original
+    distros:
+      fuerte: { version: 'default' }
