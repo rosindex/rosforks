@@ -1,0 +1,44 @@
+client_rosjava_jni:
+  code-tum-git-client-rosjava:
+    uri: https://github.com/rosindex-attic/code-tum-git-client-rosjava.git
+    type: git
+    distros:
+      cturtle: 'cturtle_released'
+      electric: 'electric_released'
+      diamondback: 'diamondback_released'
+      electric: 'electric_released'
+      fuerte: 'fuerte_released'
+cram_rosie:
+  code-tum-git-cram-rosie:
+    uri: https://github.com/rosindex-attic/code-tum-git-cram-rosie.git
+    type: git
+    distros:
+      fuerte: 'master'
+ias_common:
+  code-tum-git-ias-common:
+    uri: https://github.com/rosindex-attic/code-tum-git-ias-common.git
+    type: git
+    distros:
+      diamondback: 'diamondback_released'
+      electric: 'electric_released'
+      fuerte: 'fuerte_released'
+ias_perception:
+  code-tum-git-ias-perception:
+    uri: https://github.com/rosindex-attic/code-tum-git-ias-perception.git
+    type: git
+    distros:
+      diamondback: 'diamondback'
+knowrob:
+  code-tum-pubsvn-knowrob-tags-latest:
+    uri: https://github.com/rosindex-attic/code-tum-pubsvn-knowrob-tags-latest.git
+    type: git
+    distros:
+      fuerte: 'master'
+mapping:
+  code-tum-git-mapping:
+    uri: https://github.com/rosindex-attic/code-tum-git-mapping.git
+    type: git
+    distros:
+      electric: 'electric'
+      fuerte: 'fuerte'
+      groovy: 'master'
